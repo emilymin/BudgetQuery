@@ -26,7 +26,7 @@
             <span style="padding:30px">id</span>
             <input type="text" name="id" id="id">
         </div>
-        <input type="button" name="cancel" value="quit" onclick="close();document.write('<n>')" style="margin:0px 30px">
+        <input type="reset" name="cancel" value="cancel" style="margin:0px 30px">
         <input type="submit" name="submit" value="submit" style="margin:0px 20px">
 
 
